@@ -154,3 +154,42 @@ float: left;
        
 
     }
+    .Deals{
+        background-color: #C9ECB5;
+        padding: 8px 14px;
+    margin: 45px,0px;
+    margin-top: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 1500px;
+    length:1000px;
+    }
+    .Deals>h4{
+        padding-top: 50px;
+    }
+    .Deals>h4>span{
+        color:#6CB840 ;
+    }
+     .Deals,.images{
+       float: left; 
+       
+       
+    padding-right: 30pt;
+padding-left: 30pt;
+padding-top: 0pt;
+padding-bottom: 20pt;
+    }
+    .Deals2{
+        display: flex;
+        justify-content: space-evenly;
+        padding-right: 30pt;
+padding-left: 30pt;
+
+    }
+    .text>h2{
+        color: #6CB840;
+    }
+    .Deals ,.images , #juice{
+        padding-top: 20pt;
+    }
+    
