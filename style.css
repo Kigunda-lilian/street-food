@@ -70,3 +70,22 @@ padding-left: 10px;
 .together>h1{
     color: #EAAB1B;
 }
+.Menu>h4>span{
+    color: #6CB840;
+}
+.Menu>h4{
+    text-align: center;
+}
+.Menu{
+    padding: 8px 14px;
+    margin: 45px,0px;
+    align-items: center;
+    box-sizing: border-box;
+    background-color: rgba(201,236,181, 0.3);
+    margin-top: 0;
+    margin-left: 100px;
+    margin-right: 100px;
+    
+    margin-bottom: 1px;
+
+}
