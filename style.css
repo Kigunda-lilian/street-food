@@ -60,3 +60,13 @@ line-height: 20pt;
 text-align: center;
 padding-left: 10px;
 }
+.eat2gether>img{
+    width: 55%;
+    height: 35%;
+    padding-left: 10px;
+    margin-left: 50px;
+
+}
+.together>h1{
+    color: #EAAB1B;
+}
