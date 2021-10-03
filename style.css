@@ -25,10 +25,10 @@ font-size: 10px;
     background-color: rgba(255,215,124,0.3);
     align-items: center;
     margin-top: 0.1;
-    margin-left: 20px;
-    margin-right: 20px;
-    width: 600px;
-    length:1000px;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 1250px;
+    
     box-sizing: border-box;
 }
 h4{
@@ -42,7 +42,7 @@ h4{
 }
 .contactus>p{
     text-align: center;
-    font-size: 11px;
+    
 }
 .eat2gether{
             
@@ -161,14 +161,20 @@ float: left;
     margin-top: 0;
     margin-left: 100px;
     margin-right: 100px;
+    padding-right: 1000px;
+    width: 1170px;
     
-    length:1000px;
+   
     }
     .Deals>h4{
         padding-top: 50px;
     }
     .Deals>h4>span{
         color:#6CB840 ;
+    
+    }
+    .Deals>h4{
+        margin-top: 5px;
     }
      .Deals,.images{
        float: left; 
@@ -191,17 +197,32 @@ padding-left: 30pt;
         color: #6CB840;
     }
      #juice{
-        margin-top: -50px;
+        margin-top: -157px;
         position: relative;
+        margin-left: -15px;
 
         
     }
     #Burger{
         position: absolute;
         margin-left: -400px;
-        margin-top: 200px;
+        margin-top: 95px;
         ;
         
+    }
+    .text{
+        margin-left: 80px;
+        margin-top: 100px;
+        padding-left: 70px;
+        text-align: center;
+        margin-right: 5px;
+        
+         }
+    .text>h3{
+        text-align: left;
+    }
+    .text>p{
+        text-align: center;
     }
     .footer{
         display: inline-flex;
@@ -212,8 +233,9 @@ padding-left: 30pt;
         
 
         margin-top: 40px;
-        margin-left: 50px;
+        margin-left: 95px;
     margin-right: 0px;
+    width: 1252px;
     
     
 
