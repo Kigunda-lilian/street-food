@@ -192,4 +192,61 @@ padding-left: 30pt;
     .Deals ,.images , #juice{
         padding-top: 20pt;
     }
+    .footer{
+        display: inline-flex;
+        
+        background-color:rgba(201,236,181, 0.3);
+        flex-direction: row;
+        
+        
+
+        margin-top: 40px;
+        margin-left: 50px;
+    margin-right: 0px;
+    
+    
+
+
+
+    }
+    .days{
+        border-right: dotted gray ;
+        padding-top: 50px;
+        padding-left: 25px;
+        padding-bottom: 70px;
+        padding-right: 40px;
+    }
+    .address{
+        padding-left: 20px;
+        padding-top: 100px;
+       margin-left: 20px;
+
+    }
+    .days p:nth-child(2){
+        padding-top: 40px;
+    }
+    .follow{
+        margin-left: 250px;
+        padding-left: 120px;
+        padding-top: 100px;
+        padding-right: 10px;
+    }
+    .fin>button{
+    margin-top: 150px;
+    margin-right: 10px;
+margin-left: 25px;
+    }
+.button{
+    background-color:#6CB840 ;
+width:60px;
+
+padding: 8px 20px;
+
+border: none;
+color: white;
+font-size: 10px;
+font-weight: 700;
+margin-bottom: 50px;
+}
+
     
