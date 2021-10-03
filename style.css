@@ -1,0 +1,12 @@
+.send{
+    background-color:#6CB840 ;
+    width:90px;
+    length:100px;
+    padding: 8px 20px;
+    border-radius: 16px;
+    border: none;
+    color: white;
+    font-size: 10px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
