@@ -251,4 +251,18 @@ margin-bottom: 50px;
 .intro{
     background-color: rgba(209,208,208, 0.8);
 }
+li{
+    display: inline;
+}
+li a{
+    text-decoration: none;
+    padding-left: 20px;
+}
+
+    #navlinks{padding-top: 27px;
+        margin-top: 50px;
+        display: flex;
+
+    
+}
     
