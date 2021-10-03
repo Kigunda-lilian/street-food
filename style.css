@@ -157,11 +157,11 @@ float: left;
     .Deals{
         background-color: #C9ECB5;
         padding: 8px 14px;
-    margin: 45px,0px;
+    
     margin-top: 0;
-    margin-left: 20px;
-    margin-right: 20px;
-    width: 1500px;
+    margin-left: 100px;
+    margin-right: 100px;
+    
     length:1000px;
     }
     .Deals>h4{
@@ -186,11 +186,22 @@ padding-bottom: 20pt;
 padding-left: 30pt;
 
     }
+    
     .text>h2{
         color: #6CB840;
     }
-    .Deals ,.images , #juice{
-        padding-top: 20pt;
+     #juice{
+        margin-top: -50px;
+        position: relative;
+
+        
+    }
+    #Burger{
+        position: absolute;
+        margin-left: -400px;
+        margin-top: 200px;
+        ;
+        
     }
     .footer{
         display: inline-flex;
@@ -310,6 +321,6 @@ padding: 8px 20px;
 border-radius: 16px;
 border: none;
 color: white;
-font-size: 20px;
+font-size: 10px;
 font-weight: 700;
 margin-bottom: 50px;}
