@@ -256,13 +256,24 @@ li{
 }
 li a{
     text-decoration: none;
-    padding-left: 20px;
+    padding-left: 60px;
+    color: black;
 }
 
     #navlinks{padding-top: 27px;
         margin-top: 50px;
         display: flex;
+        
 
     
 }
-    
+#mid{
+    padding-right: 200px;
+}
+  #navlinks>div>img{height: 90px;
+
+  }  
+  #navlinks>div>{
+      margin-top: 5px;
+      
+  }
