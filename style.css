@@ -44,3 +44,19 @@ h4{
     text-align: center;
     font-size: 11px;
 }
+.eat2gether{
+            
+                
+    display: flex;
+    flex-direction: row;
+    
+    
+}
+.together{
+height: auto;
+width: 300px;
+margin-top: 100pt;
+line-height: 20pt;
+text-align: center;
+padding-left: 10px;
+}
