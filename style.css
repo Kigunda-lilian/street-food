@@ -10,3 +10,12 @@
     font-weight: 700;
     margin-bottom: 50px;
 }
+#email{width:250px;
+    padding: 8px 20px;
+    border-radius: 16px;
+    margin: 20px;
+    border: none;
+    background-color: white;
+    text-align: left;
+font-size: 10px;
+}
