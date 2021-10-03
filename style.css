@@ -89,3 +89,68 @@ padding-left: 10px;
     margin-bottom: 1px;
 
 }
+.top , .down{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-right: 30pt;
+padding-left: 30pt;
+padding-top: 70pt;
+padding-bottom: 120pt;
+
+    
+}
+.top>div , .down>div{
+    height: 100px;
+width: 180px;
+display: flex;
+justify-content: space-evenly;
+align-items: center;
+
+margin-right: 16px;
+border-bottom-right-radius: 30px;
+
+}
+.top>div>img , .down>div>img{
+    height: 130px;
+    width: 150px;
+float: left;
+    position: relative;
+   left: -10%;
+
+    bottom: -25px;
+    margin-left: 2px;
+    display: flex;
+    justify-content: right;
+ 
+ 
+
+}
+.top>div>p , .down>div>p{
+    border-radius:0 0 20px 0;
+    text-align: center;
+    width: 300px;
+    height: 150px;
+    padding-left: 7px;
+    padding-top: 10px;
+    padding-bottom: 60px;
+    padding-right: 10px;
+    background-color: white;
+    display: flex;
+    margin-left: -90px;
+    margin-right: 5px;
+    margin-top: 45px;
+    height: 103px;
+    display: inline-flex;
+    justify-content: right;
+    margin-bottom: 80px;
+    padding-right: 40px;
+}
+ 
+    .top>div>p>span, .down>div>p>span{
+        font-weight: 700;
+        font-size: 20;
+        padding: 1px;
+       
+
+    }
