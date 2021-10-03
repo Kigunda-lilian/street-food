@@ -31,3 +31,16 @@ font-size: 10px;
     length:1000px;
     box-sizing: border-box;
 }
+h4{
+    text-align: center;
+}
+.contactus>h4>span{
+    color: #6CB840;
+}
+*{
+    font-family: 'poppins';
+}
+.contactus>p{
+    text-align: center;
+    font-size: 11px;
+}
